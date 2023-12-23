@@ -1,5 +1,5 @@
 {
-    "name": "ezsystems/ezscriptmonitor-ls",
+    "name": "se7enxweb/ezscriptmonitor-ls",
     "description": "eZ Publish extension that aims to avoid timeout problems and database corruption by moving long running processes from the GUI to the background.",
     "type": "ezpublish-legacy-extension",
     "license": "GPL-2.0",
