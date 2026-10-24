@@ -13,6 +13,9 @@
     "require": {
         "se7enxweb/ezpublish-legacy-installer": "*"
     },
+    "replace": {
+        "se7enxweb/ezscriptmonitor-ls": "self.version"
+    },
     "extra": {
         "ezpublish-legacy-extension-name": "ezscriptmonitor"
     }
